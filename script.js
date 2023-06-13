@@ -1,4 +1,4 @@
-const display = document.querySelector('#reset');
+const display = document.querySelector('#result');
 const calculator = document.getElementById('calculator');
 let displayValue = '0';
 
